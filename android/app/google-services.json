@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16635988344",
+    "project_id": "augersoft-80efb",
+    "storage_bucket": "augersoft-80efb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16635988344:android:6b3baa0f0264fa0c28a08d",
+        "android_client_info": {
+          "package_name": "com.example.intern_task_8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16635988344-74m822dmbg0q34olgltdpoit9p3l4ag3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfHIMfxcwhSTbAXUEU4xzoTbDTRNadVTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16635988344-74m822dmbg0q34olgltdpoit9p3l4ag3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
